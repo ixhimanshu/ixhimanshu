@@ -8,7 +8,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ixhimanshu&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Role-CEO%20%2F%20CTO-blueviolet?style=for-the-badge" alt="role" />
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-14b8a6?style=for-the-badge" alt="experience" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-14b8a6?style=for-the-badge" alt="experience" />
 </p>
 
 </div>
